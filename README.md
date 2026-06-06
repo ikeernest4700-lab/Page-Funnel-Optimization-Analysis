@@ -7,7 +7,7 @@ Customer journey analysis focused on funnel optimization and cohort retention to
 ---
 
 ## Business Problem
-In the 2012–2015 e-commerce dataset for **Mr Fuzzy Teddy Bear Store**, significant drop-offs in the purchase funnel (especially Product Detail → Cart) and high customer churn were causing major revenue leakage.
+In the 2012–2015 e-commerce dataset for **Mr Fuzzy Teddy Bear Store**, significant drop-offs in the purchase funnel (especially Product Detail to Cart) and high customer churn were causing major revenue leakage.
 
 The goal was to:
 - Identify where users drop off in the funnel
@@ -17,10 +17,10 @@ The goal was to:
 ---
 
 ## Tools Used
-- **SQL** → Data extraction, cleaning, joins, segmentation
-- **Excel** → Basic data validation and inspection
-- **Power BI** → KPI creation (DAX measures), funnel visualization, cohort analysis, interactive dashboards
-- **Methods** → Funnel Analysis, Cohort Analysis, Segmentation, ROI Estimation
+- **SQL** : Data extraction, cleaning, joins, segmentation
+- **Excel** :Basic data validation and inspection
+- **Power BI** :KPI creation (DAX measures), funnel visualization, cohort analysis, interactive dashboards
+- **Methods** : Funnel Analysis, Cohort Analysis, Segmentation, ROI Estimation
 
 ---
 
