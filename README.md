@@ -62,6 +62,12 @@ group by 1
 ```
 ---
 
+## Insights Dashboard View
+
+![Funnel Insights](images/funnel-dashboard.png)
+
+
+
 ## Key Metrics & Findings
 
 ### Funnel Performance
@@ -97,6 +103,11 @@ group by 1
 - Repeat Purchase Rate: **1.86%**
 - Median Time to Repeat Purchase: **31 days**
 
+## Insights Dashboard View
+
+![Cohort Insights](images/cohort-dashboard.png)
+
+[live link to full report]()
 ---
 
 ## Business Impact & Recommendations
