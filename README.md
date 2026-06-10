@@ -195,6 +195,45 @@ A **10% improvement in Product → Cart conversion** could generate:
 ## Conclusion
 This project demonstrates the ability to transform raw data using SQL, build KPI-driven dashboards in Power BI, and generate revenue-focused insights through funnel and cohort analysis.
 
+
+## 📚 Next Step: Python Learning Path
+
+To further strengthen my analytics and data engineering skill set, the next focus areas include:
+
+- Python for data analysis (Pandas, NumPy)  
+- Data visualization (Matplotlib, Seaborn)  
+- Predictive modeling (Scikit-learn)  
+- Healthcare risk scoring models  
+- API and data pipeline development  
+
+This will enable a transition from descriptive analytics to **predictive healthcare analytics**.
+
+---
+
+## 🤝 Open to Opportunities
+
+I am actively seeking opportunities in:
+
+- Data Analyst roles (Entry-Level / Graduate / Junior)  
+- Healthcare Analytics roles  
+- Business Intelligence (BI) Analyst positions  
+- Data Engineering Internships  
+- Graduate Trainee Programs  
+
+I am open to remote, hybrid, and on-site opportunities where I can contribute to data-driven decision-making and continue developing technical expertise.
+
+---
+
+## 📬 Contact
+
+**Ike Ernest**  
+Data Analyst | SQL | Power BI | Healthcare Analytics  
+
+- GitHub: [github.com/ikeernest4700-lab]  
+- LinkedIn: [https://www.linkedin.com/in/emeka-ike-108748198]  
+- Email: [ikeernest4700@gmail.com]  
+
+
 ---
 
 ## Contact
