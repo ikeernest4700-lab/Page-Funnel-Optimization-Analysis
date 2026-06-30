@@ -107,11 +107,15 @@ GROUP BY 1
 
 ## Insights Dashboard View
 
-![Landing Page Dashboard](images/landing-page.png)
+![Landing Page Dashboard](images/Dashboard.png)
 
+
+Funnel Optimization
 ![Funnel Optimization Dashboard](images/funnel-optimization.png)
 
-![Funnel Segmentation by Product, Campaign & Device](images/funnel-segmentation.png)
+
+## Funnel Segmentation
+![Funnel Segmentation by Product, Campaign & Device](images/segmentation.png)
 
 [Live link to full report]()
 
