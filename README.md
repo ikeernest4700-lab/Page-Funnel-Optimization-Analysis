@@ -120,6 +120,15 @@ GROUP BY 1
 ![Funnel Insights](images/funnel.png)
 
 
+[](images/drop-Off-segment.png)
+
+
+[](images/funnel-optimization.png)
+
+
+
+
+
 
 ## Key Metrics & Findings
 
