@@ -121,10 +121,10 @@ GROUP BY 1
 
 
 ## Funnel Optimization
-[drop off insights and revenue impact](images/funnel-optimizationt.png)
+![drop off insights and revenue impact](images/funnel-optimizationt.png)
 
 
-[categorised](images/segmentation.png)
+![categorised](images/segmentation.png)
 
 
 
